@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sruzraj
+- 👋 Hi, I’m @Shrujan
 - 👀 I’m interested in ... Python, R, SQL
-- 🌱 I’m currently learning ...Pythin and R
-- 💞️ I’m looking to collaborate on ...Python and R
+- 🌱 I’m currently learning ...SQL and R
+- 💞️ I’m looking to collaborate on ...SQL, Python, and R
 - 📫 How to reach me ...email- shrujanrajdeep@gmail.com
 
 <!---
